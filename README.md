@@ -33,11 +33,14 @@ Then, to make it show up in the help command, go to `help.js` and use this templ
 + Make sure to go through `index.js` and replace any `<insert _ here>` with what it asks for. To get IDs of things like channels, you need to enable `Developer Mode` in your user settings. When you click the 3 dots that show up when you hover over a message, there will be a `Copy ID` button near the bottom. Replace the fillers with said ID. 
 + If you want the prefix to be anything other than `-`, go to `config.js`. It's right after `prefix:`.
 
+### Online
+Without a paid repl plan, your repl wil only stay online for so long before it automatically turns off. To circumvent this, you can use `https://uptimerobot.com/` to keep your repl running forever
+
 ### Notes
 Keep in mind that this is a WIP Project, and I am the only one actually working on it. If you have a suggestion/question, or you find a bug, feel free to contact me via Discord (catkit08#3625) or Reddit (u/catkit08). I will reply as soon as I can.
 
 ##
 
-PingSpam V. R.1.0
+PingSpam V. R.1.1
 
 catkit08
